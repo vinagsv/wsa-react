@@ -28,7 +28,7 @@ const Blog = () => {
           <p>
             We used a single functional component named <code>Accordion</code>.
             This component holds the logic for toggling each FAQ item open or
-            closed. We used React's <code>useState</code> hook to track which
+            close. We used React's <code>useState</code> hook to track which
             item is currently open.
           </p>
 
